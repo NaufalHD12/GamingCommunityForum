@@ -1,0 +1,5 @@
+insert into Games (GameID, GameName, LogoURL, GameDescription) values (1, 'Genshin Impact', 'https://example.com/genshin_logo.png', 'Genshin Impact is an open-world action RPG');
+insert into Games (GameID, GameName, LogoURL, GameDescription) values (2, 'Minecraft', 'https://example.com/minecraft_logo.png', 'Minecraft is a game that allows you to create and explore infinite worlds');
+insert into Games (GameID, GameName, LogoURL, GameDescription) values (3, 'Valorant', 'https://example.com/valorant_logo.png', 'Valorant is a character-based 5v5 tactical shooter');
+insert into Games (GameID, GameName, LogoURL, GameDescription) values (4, 'Honkai Star Rail', 'https://example.com/honkai_star_rail_logo.png', 'Honkai Star Rail is a new HoYoverse space fantasy RPG');
+insert into Games (GameID, GameName, LogoURL, GameDescription) values (5, 'League of Legends', 'https://example.com/league_of_legends_logo.png', 'League of Legends is a team-based game with over 140 champions to make epic plays with');
