@@ -1,2 +1,2 @@
-# GamingCommuntyForum
+# GamingCommunityForum
 Project Basis Data UAS
